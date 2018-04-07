@@ -1,0 +1,10 @@
+C:\Users\user\Documents\FolaAutomationRepo\FolakeMSTestFrameworksol\FolakeMSTestFramework\bin\Debug\FolakeMSTestFramework.dll.config
+C:\Users\user\Documents\FolaAutomationRepo\FolakeMSTestFrameworksol\FolakeMSTestFramework\bin\Debug\FolakeMSTestFramework.dll
+C:\Users\user\Documents\FolaAutomationRepo\FolakeMSTestFrameworksol\FolakeMSTestFramework\bin\Debug\FolakeMSTestFramework.pdb
+C:\Users\user\Documents\FolaAutomationRepo\FolakeMSTestFrameworksol\FolakeMSTestFramework\bin\Debug\WebDriver.dll
+C:\Users\user\Documents\FolaAutomationRepo\FolakeMSTestFrameworksol\FolakeMSTestFramework\bin\Debug\WebDriver.Support.dll
+C:\Users\user\Documents\FolaAutomationRepo\FolakeMSTestFrameworksol\FolakeMSTestFramework\bin\Debug\WebDriver.xml
+C:\Users\user\Documents\FolaAutomationRepo\FolakeMSTestFrameworksol\FolakeMSTestFramework\bin\Debug\WebDriver.Support.xml
+C:\Users\user\Documents\FolaAutomationRepo\FolakeMSTestFrameworksol\FolakeMSTestFramework\obj\Debug\FolakeMSTestFramework.dll
+C:\Users\user\Documents\FolaAutomationRepo\FolakeMSTestFrameworksol\FolakeMSTestFramework\obj\Debug\FolakeMSTestFramework.pdb
+C:\Users\user\Documents\FolaAutomationRepo\FolakeMSTestFrameworksol\FolakeMSTestFramework\obj\Debug\FolakeMSTestFramework.csprojResolveAssemblyReference.cache
